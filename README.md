@@ -7,9 +7,8 @@ Tools Known: PowerBI, GitHub, Pycharm, Jupyter Notebook, VS Code.
 Certified in Python, AWS, Devops, HTML, CSS, Manual Tesing Courses.
 
 
-
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" scr="https://lottiefiles.com/animations/girl-on-computer-with-idea-vKx1wtZe5l.gif">
+<img align="right" alt="coding" width="400" scr="https://img.freepik.com/premium-vector/woman-works-computer-concept-freelancing-remote-work-office-home-vector-illustration-webmasters-day_499739-431.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashaswinijogi&label=Profile%20views&color=0e75b6&style=flat" alt="yashaswinijogi" /> </p>
 
@@ -28,3 +27,4 @@ Certified in Python, AWS, Devops, HTML, CSS, Manual Tesing Courses.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashaswinijogi&show_icons=true&locale=en" alt="yashaswinijogi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashaswinijogi&" alt="yashaswinijogi" /></p>
+
