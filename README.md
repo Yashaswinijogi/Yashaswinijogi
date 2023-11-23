@@ -1,5 +1,4 @@
 Hello Everyone👋!
-
 I'm Yashaswini Jogi👩
 I'm a MCA graduate with a passion for software development and has a strong foundation in computer science👩‍🎓
 Proficient in programming language such as Python, AWS, Devops, HTML, CSS💻
