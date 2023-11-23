@@ -10,7 +10,7 @@ Database: MySQL🌍
 
 Tools Known: PowerBI, GitHub, Pycharm, Jupyter Notebook, VS Code🛠
 
-Certified in Python, AWS, Devops, HTML, CSS, Manual Tesing Courses📝
+Certified in Python, AWS, Devops, HTML, CSS, and Manual Tesing Courses📝
 
 
 
