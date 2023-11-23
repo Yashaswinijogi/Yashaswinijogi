@@ -16,7 +16,6 @@ Complited Internship in Vivarttana Tecnology, synargy bangalore and Micro Degree
 
 
 
-<img align="right" alt="coding" width="400" scr="https://img.freepik.com/premium-vector/woman-works-computer-concept-freelancing-remote-work-office-home-vector-illustration-webmasters-day_499739-431.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashaswinijogi&label=Profile%20views&color=0e75b6&style=flat" alt="yashaswinijogi" /> </p>
 
