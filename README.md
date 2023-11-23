@@ -12,6 +12,8 @@ Tools Known: PowerBI, GitHub, Pycharm, Jupyter Notebook, VS Code🛠
 
 Certified in Python, AWS, Devops, HTML, CSS, and Manual Tesing Courses📝
 
+Complited Internship in Vivarttana Tecnology, synargy bangalore and Micro Degree Mangalore👩‍💻
+
 
 
 <img align="right" alt="coding" width="400" scr="https://img.freepik.com/premium-vector/woman-works-computer-concept-freelancing-remote-work-office-home-vector-illustration-webmasters-day_499739-431.jpg">
