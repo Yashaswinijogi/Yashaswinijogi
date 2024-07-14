@@ -6,7 +6,7 @@ I'm a MCA graduate with a passion for software development and has a strong foun
 
 Proficient in programming language such as Python, AWS, Devops, HTML, CSS💻
 
-Database: MySQL🌍
+Database: MySQL,PostgreSQL🌍
 
 Tools Known: PowerBI, GitHub, Pycharm, Jupyter Notebook, VS Code🛠
 
